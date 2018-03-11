@@ -1,0 +1,26 @@
+{
+  "name": "unity-3rdparty-sqlite",
+  "version": "0.0.1",
+  "description": "SQLite4Unity3d packaged",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowmint/unity-3rdparty-sqlite.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "douglas.linder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowmint/unity-3rdparty-sqlite/issues"
+  },
+  "homepage": "https://github.com/shadowmint/unity-3rdparty-sqlite",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+  }
+}

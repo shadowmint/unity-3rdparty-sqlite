@@ -2,6 +2,10 @@
 
 This is the compiled binaries only of sqlite for unity3d.
 
+The sqlite version packaged is: 3220000
+
+For iOS and mac the native library bundle is used.
+
 ## Install
 
 From your unity project folder:
